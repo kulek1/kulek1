@@ -1,6 +1,4 @@
 # 💫 About Me:
-⚡ Fun fact: 
-> "Ask a programmer to review 10 lines of code, he'll find 10 issues. Ask him to do 500 lines and he'll say it looks good" - Giray Özil
 
 <br/>
 
